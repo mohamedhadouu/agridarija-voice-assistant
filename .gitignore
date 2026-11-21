@@ -1,0 +1,8 @@
+.env
+__pycache__/
+*.pyc
+venv/
+*.pem
+audio_files/
+index/
+directory_hash.txt
